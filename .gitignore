@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.spec
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# demo / local data produced by running the app
+.demo/
+docs/_crop.png
+
+# editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
